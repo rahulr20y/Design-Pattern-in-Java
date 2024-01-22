@@ -23,7 +23,7 @@
     Iterator Pattern
     Mediator Pattern
     Memento Pattern
-    Observer Pattern
+    Observer Pattern - Done
     State Pattern
     Strategy Pattern - Done
     Template Pattern
