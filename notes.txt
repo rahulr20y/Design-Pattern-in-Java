@@ -3,8 +3,8 @@
 >> Types of Design Pattern:
 
 1.Creational Design Pattern
-    Factory Pattern
-    Abstract Factory Pattern
+    Factory Pattern -  Done
+    Abstract Factory Pattern - Done
     Singleton Pattern
     Prototype Pattern
     Builder Pattern.
