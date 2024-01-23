@@ -9,7 +9,7 @@
     Prototype Pattern - Done
     Builder Pattern. - Done
 2. Structural Design Pattern
-    Adapter Pattern
+    Adapter Pattern - Done
     Bridge Pattern
     Composite Pattern
     Decorator Pattern - Done
