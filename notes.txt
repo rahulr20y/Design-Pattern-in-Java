@@ -15,7 +15,7 @@
     Decorator Pattern - Done
     Facade Pattern
     Flyweight Pattern
-    Proxy Pattern
+    Proxy Pattern - Done
 3. Behavioral Design Pattern
     Chain Of Responsibility Pattern
     Command Pattern
