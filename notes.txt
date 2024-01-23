@@ -17,7 +17,7 @@
     Flyweight Pattern
     Proxy Pattern - Done
 3. Behavioral Design Pattern
-    Chain Of Responsibility Pattern
+    Chain Of Responsibility Pattern - Done
     Command Pattern
     Interpreter Pattern
     Iterator Pattern
