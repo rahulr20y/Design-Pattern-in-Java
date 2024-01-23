@@ -5,9 +5,9 @@
 1.Creational Design Pattern
     Factory Pattern -  Done
     Abstract Factory Pattern - Done
-    Singleton Pattern
+    Singleton Pattern - Done
     Prototype Pattern - Done
-    Builder Pattern.
+    Builder Pattern. - Done
 2. Structural Design Pattern
     Adapter Pattern
     Bridge Pattern
