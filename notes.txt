@@ -13,7 +13,7 @@
     Bridge Pattern
     Composite Pattern - Done
     Decorator Pattern - Done
-    Facade Pattern
+    Facade Pattern - Done
     Flyweight Pattern
     Proxy Pattern - Done
 3. Behavioral Design Pattern

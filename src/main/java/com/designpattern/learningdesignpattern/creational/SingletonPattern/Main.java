@@ -55,7 +55,7 @@ class DBConnectionSynchronized {
 
     }
 
-    synchronized public static DBConnectionSynchronized getInstance() {
+    synchronized public static DBConnectionSynchronized getInstance() { // method synchronized
         if (connection == null) {
             connection = new DBConnectionSynchronized();
         }
@@ -73,7 +73,7 @@ class DBConnectionDoubleLocking {
 
     public static DBConnectionDoubleLocking getInstance() {
         if (connection == null) {
-            synchronized (DBConnectionDoubleLocking.class) {
+            synchronized (DBConnectionDoubleLocking.class) { // block synchronized
                 if (connection == null) {
                     connection = new DBConnectionDoubleLocking();
                 }
