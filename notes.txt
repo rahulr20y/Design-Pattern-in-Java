@@ -14,7 +14,7 @@
     Composite Pattern - Done
     Decorator Pattern - Done
     Facade Pattern - Done
-    Flyweight Pattern
+    Flyweight Pattern - Done
     Proxy Pattern - Done
 3. Behavioral Design Pattern
     Chain Of Responsibility Pattern - Done
