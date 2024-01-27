@@ -20,7 +20,7 @@
     Chain Of Responsibility Pattern - Done
     Command Pattern - Done
     Interpreter Pattern - Done
-    Iterator Pattern
+    Iterator Pattern - Done
     Mediator Pattern
     Memento Pattern
     Observer Pattern - Done
