@@ -22,7 +22,7 @@
     Interpreter Pattern - Done
     Iterator Pattern - Done
     Mediator Pattern - Done
-    Memento Pattern
+    Memento Pattern - Done
     Observer Pattern - Done
     State Pattern
     Strategy Pattern - Done
