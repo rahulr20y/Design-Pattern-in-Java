@@ -1,4 +1,4 @@
-package com.designpattern.learningdesignpattern.behavioral.WithStrategyPattern;
+package com.designpattern.learningdesignpattern.behavioral.StrategyPattern.Solution1WithStrategyPattern;
 
 public class Main {
     public static void main(String[] args) {

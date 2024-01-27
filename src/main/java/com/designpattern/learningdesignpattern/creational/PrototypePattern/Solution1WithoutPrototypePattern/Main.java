@@ -1,4 +1,4 @@
-package com.designpattern.learningdesignpattern.creational.WithoutPrototypePattern;
+package com.designpattern.learningdesignpattern.creational.PrototypePattern.Solution1WithoutPrototypePattern;
 
 class Student {
     int age;

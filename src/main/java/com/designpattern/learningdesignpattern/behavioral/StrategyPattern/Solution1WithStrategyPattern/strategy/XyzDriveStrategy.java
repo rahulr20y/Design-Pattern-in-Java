@@ -1,4 +1,4 @@
-package com.designpattern.learningdesignpattern.behavioral.WithStrategyPattern.strategy;
+package com.designpattern.learningdesignpattern.behavioral.StrategyPattern.Solution1WithStrategyPattern.strategy;
 
 public class XyzDriveStrategy implements DriveStrategy {
 

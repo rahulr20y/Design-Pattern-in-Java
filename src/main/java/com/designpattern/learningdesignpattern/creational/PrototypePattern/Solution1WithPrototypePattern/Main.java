@@ -1,4 +1,4 @@
-package com.designpattern.learningdesignpattern.creational.WithPrototypePattern;
+package com.designpattern.learningdesignpattern.creational.PrototypePattern.Solution1WithPrototypePattern;
 
 public class Main {
     public static void main(String[] args) {
