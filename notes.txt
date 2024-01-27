@@ -21,7 +21,7 @@
     Command Pattern - Done
     Interpreter Pattern - Done
     Iterator Pattern - Done
-    Mediator Pattern
+    Mediator Pattern - Done
     Memento Pattern
     Observer Pattern - Done
     State Pattern
