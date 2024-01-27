@@ -19,7 +19,7 @@
 3. Behavioral Design Pattern
     Chain Of Responsibility Pattern - Done
     Command Pattern - Done
-    Interpreter Pattern
+    Interpreter Pattern - Done
     Iterator Pattern
     Mediator Pattern
     Memento Pattern
