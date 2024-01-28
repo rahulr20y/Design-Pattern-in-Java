@@ -26,5 +26,5 @@
     Observer Pattern - Done
     State Pattern
     Strategy Pattern - Done
-    Template Pattern
+    Template Pattern - Done
     Visitor Pattern
