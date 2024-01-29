@@ -3,28 +3,28 @@
 >> Types of Design Pattern:
 
 1.Creational Design Pattern
-    Factory Pattern - Done
-    Abstract Factory Pattern - Done
-    Singleton Pattern - Done
-    Prototype Pattern - Done
-    Builder Pattern. - Done
+    Factory Pattern
+    Abstract Factory Pattern
+    Singleton Pattern
+    Prototype Pattern
+    Builder Pattern
 2. Structural Design Pattern
-    Adapter Pattern - Done
-    Bridge Pattern - Done
-    Composite Pattern - Done
-    Decorator Pattern - Done
-    Facade Pattern - Done
-    Flyweight Pattern - Done
-    Proxy Pattern - Done
+    Adapter Pattern
+    Bridge Pattern
+    Composite Pattern
+    Decorator Pattern
+    Facade Pattern
+    Flyweight Pattern
+    Proxy Pattern
 3. Behavioral Design Pattern
-    Chain Of Responsibility Pattern - Done
-    Command Pattern - Done
-    Interpreter Pattern - Done
-    Iterator Pattern - Done
-    Mediator Pattern - Done
-    Memento Pattern - Done
-    Observer Pattern - Done
+    Chain Of Responsibility Pattern
+    Command Pattern
+    Interpreter Pattern
+    Iterator Pattern
+    Mediator Pattern
+    Memento Pattern
+    Observer Pattern
     State Pattern
-    Strategy Pattern - Done
-    Template Pattern - Done
-    Visitor Pattern - Done
+    Strategy Pattern
+    Template Pattern
+    Visitor Pattern
