@@ -21,11 +21,11 @@ class Marker {
     }
 }
 
-class InvoiceTemp {
+class InvoiceP {
     private Marker marker;// has a relationship with marker
     private int quantity;
 
-    public InvoiceTemp(Marker marker, int quantity) {
+    public InvoiceP(Marker marker, int quantity) {
         this.marker = marker;
         this.quantity = quantity;
     }

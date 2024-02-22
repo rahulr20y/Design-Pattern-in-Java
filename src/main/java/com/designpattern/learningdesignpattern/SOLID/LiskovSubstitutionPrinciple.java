@@ -7,6 +7,11 @@ public class LiskovSubstitutionPrinciple {
     public static void main(String[] args) {
         System.out.println(
                 "If Class B is subtype of Class A, then we should be able to replace object of A with B without breaking the behaviour of the program");
+        /*
+         * -- All the child class should be able to substitute each other without breaking
+         * the code.
+         * -- Child class should not reduce its parents cabability
+         */
         System.out.println("Subclass should extend the capability of Parent class and not narrow it down");
 
         // client impl

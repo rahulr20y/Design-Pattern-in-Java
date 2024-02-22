@@ -7,10 +7,10 @@ public class OpenClosedPrinciple {
 }
 
 // problem statement
-class PInvoiceDao {
+class InvoiceDaoP {
     private Invoice invoice;
 
-    public PInvoiceDao(Invoice invoice) {
+    public InvoiceDaoP(Invoice invoice) {
         this.invoice = invoice;
     }
 
@@ -21,10 +21,10 @@ class PInvoiceDao {
 }
 
 // now suppose we want it to save in a file then we have to modify existing
-class PInvoiceDaoFile {
+class InvoiceDaoFileP {
     private Invoice invoice;
 
-    public PInvoiceDaoFile(Invoice invoice) {
+    public InvoiceDaoFileP(Invoice invoice) {
         this.invoice = invoice;
     }
 
