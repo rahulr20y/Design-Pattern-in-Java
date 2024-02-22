@@ -2,7 +2,6 @@ package com.designpattern.learningdesignpattern.structural.CompositePattern.Prob
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println();
         Directory movieDirectory = new Directory("Movie");
 
         File border = new File("Border");
@@ -16,5 +15,5 @@ public class Main {
         movieDirectory.ls();
 
     }
-    
+
 }
