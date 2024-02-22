@@ -7,6 +7,9 @@ import com.designpattern.learningdesignpattern.creational.AbstractFactoryPattern
 public class Main {
     public static void main(String[] args) {
         System.out.println("Abstract Factory Design Pattern or Factory Method Design Pattern....");
+        /*
+         * It is factory of factory
+         */
         Vehicle vehicle = VehicleFactory.getVehicle(new LuxuryVehicleFactory(), "Mercedes");
         System.out.println("Vehile Type " + vehicle.type() + " has an average of " + vehicle.average());
 

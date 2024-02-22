@@ -22,6 +22,7 @@ public class Main {
 
         // without prototype
         Student student = new Student(24, 52, "bob");
+
         Student cloneStudent = new Student();
         cloneStudent.age = student.age;
         // cloneStudent.rollNumber = student.rollNumber; // private member is not

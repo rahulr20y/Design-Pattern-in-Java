@@ -2,7 +2,7 @@ package com.designpattern.learningdesignpattern.creational.SingletonPattern;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("It is used when we have to create only on class");
+        System.out.println("It is used when we have to create only 1 instance of a class");
         /***
          * 4 ways to achieve this
          * 1. Eager
@@ -22,7 +22,7 @@ public class Main {
 class DBConnectionEager {
     private static DBConnectionEager connection = new DBConnectionEager();
 
-    private DBConnectionEager() {
+    private DBConnectionEager() { // making constructor as private to prevent it from calling outside of class
     }
 
     public static DBConnectionEager getInstance() {
@@ -63,7 +63,7 @@ class DBConnectionSynchronized {
     }
 }
 
-// 4. Double Locking
+// 4. Double Locking - used in industry
 class DBConnectionDoubleLocking {
     private static DBConnectionDoubleLocking connection;
 
